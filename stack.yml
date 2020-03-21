@@ -365,7 +365,7 @@ functions:
     environment:
       app_name: Telar Social
       base_route: /storage
-      bucket_name: c86d23ff9d940c78b9ca.appspot.com
+      bucket_name: telarpress.appspot.com
       cookie_root_domain: .o6s.io
       db_type: mongo
       exec_timeout: "20"
