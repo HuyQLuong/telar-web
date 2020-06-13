@@ -1,6 +1,6 @@
 environment:
   base_route: /storage
-  bucket_name: c86d23ff9d940c78b9ca.appspot.com
+  bucket_name: socialnetwork-7f289.appspot.com
   exec_timeout: "20"
   storage_secret_path: /var/openfaas/secrets/serviceAccountKey.json
   write_debug: "true"

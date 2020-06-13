@@ -2,8 +2,8 @@ environment:
   app_name: Telar Social
   db_type: mongo
   header_cookie_name: he
-  mongo_database: test
-  mongo_host: mongodb+srv://amir:%s@cluster0-v5smm.mongodb.net/test?retryWrites=true&w=majority
+  mongo_database: ' SocialNetwork'
+  mongo_host: mongodb+srv://huyluong:%s@socialnetwork-gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
   mongo_pwd_path: /var/openfaas/secrets/mongo-pwd
   org_avatar: https://avatars3.githubusercontent.com/u/43268620
   org_name: Red Gold
@@ -15,9 +15,9 @@ environment:
   public_key_path: /var/openfaas/secrets/key.pub
   read_timeout: 10s
   recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-  recaptcha_site_key: 6LeUduIUAAAAAHJ0Z5CAqiYrLrvJCOe5eJEubODI
+  recaptcha_site_key: 6LdJPaQZAAAAAFTr6FP5fCM89MCJfMmS2a334rDj
   redis_address: redis-19712.c12.us-east-1-4.ec2.cloud.redislabs.com:19712
-  ref_email: polling.social@gmail.com
+  ref_email: luongquochuy1995@gmail.com
   ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
   signature_cookie_name: si
   smtp_email: smtp.gmail.com

@@ -1,8 +1,8 @@
 environment:
   cookie_root_domain: .o6s.io
-  external_domain: https://telarpress.o6s.io
-  external_redirect_domain: https://telarpress.o6s.io/auth
-  gateway: https://telarpress.o6s.io
-  origin: https://telarpress.o6s.io
-  web_domain: https://telarpress.o6s.io
-  websocket_server_url: https://telarpress-websocket.herokuapp.com
+  external_domain: https://huyqluong.o6s.io
+  external_redirect_domain: https://huyqluong.o6s.io/auth
+  gateway: https://huyqluong.o6s.io
+  origin: https://huyqluong.o6s.io
+  web_domain: https://huyqluong.o6s.io
+  websocket_server_url: https://huyluong-websocket.herokuapp.com
