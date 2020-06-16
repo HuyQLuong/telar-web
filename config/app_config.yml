@@ -2,8 +2,8 @@ environment:
   app_name: Telar Social
   db_type: mongo
   header_cookie_name: he
-  mongo_database: SocialNetwork
-  mongo_host: mongodb+srv://huyluong:%s@socialnetwork-gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
+  mongo_database: test
+  mongo_host: mongodb+srv://huyluong:%s@cluster0.gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
   mongo_pwd_path: /var/openfaas/secrets/mongo-pwd
   org_avatar: https://avatars3.githubusercontent.com/u/43268620
   org_name: Red Gold

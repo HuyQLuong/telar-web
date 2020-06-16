@@ -13,8 +13,8 @@ functions:
       external_redirect_domain: https://huyqluong.o6s.io/auth
       gateway: https://huyqluong.o6s.io
       header_cookie_name: he
-      mongo_database: SocialNetwork
-      mongo_host: mongodb+srv://huyluong:%s@socialnetwork-gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
+      mongo_database: test
+      mongo_host: mongodb+srv://huyluong:%s@cluster0.gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
       mongo_pwd_path: /var/openfaas/secrets/mongo-pwd
       org_avatar: https://avatars3.githubusercontent.com/u/43268620
       org_name: Red Gold
@@ -72,8 +72,8 @@ functions:
       external_redirect_domain: https://huyqluong.o6s.io/auth
       gateway: https://huyqluong.o6s.io
       header_cookie_name: he
-      mongo_database: SocialNetwork
-      mongo_host: mongodb+srv://huyluong:%s@socialnetwork-gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
+      mongo_database: test
+      mongo_host: mongodb+srv://huyluong:%s@cluster0.gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
       mongo_pwd_path: /var/openfaas/secrets/mongo-pwd
       org_avatar: https://avatars3.githubusercontent.com/u/43268620
       org_name: Red Gold
@@ -133,8 +133,8 @@ functions:
       gateway: https://huyqluong.o6s.io
       github_app_id: "12345"
       header_cookie_name: he
-      mongo_database: SocialNetwork
-      mongo_host: mongodb+srv://huyluong:%s@socialnetwork-gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
+      mongo_database: test
+      mongo_host: mongodb+srv://huyluong:%s@cluster0.gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
       mongo_pwd_path: /var/openfaas/secrets/mongo-pwd
       oauth_client_secret_path: /var/openfaas/secrets/ts-client-secret
       oauth_provider: github
@@ -197,8 +197,8 @@ functions:
       external_redirect_domain: https://huyqluong.o6s.io/auth
       gateway: https://huyqluong.o6s.io
       header_cookie_name: he
-      mongo_database: SocialNetwork
-      mongo_host: mongodb+srv://huyluong:%s@socialnetwork-gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
+      mongo_database: test
+      mongo_host: mongodb+srv://huyluong:%s@cluster0.gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
       mongo_pwd_path: /var/openfaas/secrets/mongo-pwd
       org_avatar: https://avatars3.githubusercontent.com/u/43268620
       org_name: Red Gold
@@ -255,8 +255,8 @@ functions:
       external_redirect_domain: https://huyqluong.o6s.io/auth
       gateway: https://huyqluong.o6s.io
       header_cookie_name: he
-      mongo_database: SocialNetwork
-      mongo_host: mongodb+srv://huyluong:%s@socialnetwork-gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
+      mongo_database: test
+      mongo_host: mongodb+srv://huyluong:%s@cluster0.gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
       mongo_pwd_path: /var/openfaas/secrets/mongo-pwd
       org_avatar: https://avatars3.githubusercontent.com/u/43268620
       org_name: Red Gold
@@ -313,8 +313,8 @@ functions:
       external_redirect_domain: https://huyqluong.o6s.io/auth
       gateway: https://huyqluong.o6s.io
       header_cookie_name: he
-      mongo_database: SocialNetwork
-      mongo_host: mongodb+srv://huyluong:%s@socialnetwork-gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
+      mongo_database: test
+      mongo_host: mongodb+srv://huyluong:%s@cluster0.gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
       mongo_pwd_path: /var/openfaas/secrets/mongo-pwd
       org_avatar: https://avatars3.githubusercontent.com/u/43268620
       org_name: Red Gold
@@ -373,8 +373,8 @@ functions:
       external_redirect_domain: https://huyqluong.o6s.io/auth
       gateway: https://huyqluong.o6s.io
       header_cookie_name: he
-      mongo_database: SocialNetwork
-      mongo_host: mongodb+srv://huyluong:%s@socialnetwork-gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
+      mongo_database: test
+      mongo_host: mongodb+srv://huyluong:%s@cluster0.gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
       mongo_pwd_path: /var/openfaas/secrets/mongo-pwd
       org_avatar: https://avatars3.githubusercontent.com/u/43268620
       org_name: Red Gold
